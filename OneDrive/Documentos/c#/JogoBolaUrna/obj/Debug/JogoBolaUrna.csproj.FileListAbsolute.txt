@@ -1,0 +1,7 @@
+C:\Users\isabe\OneDrive\Documentos\c#\JogoBolaUrna\obj\Debug\JogoBolaUrna.csproj.AssemblyReference.cache
+C:\Users\isabe\OneDrive\Documentos\c#\JogoBolaUrna\obj\Debug\JogoBolaUrna.csproj.CoreCompileInputs.cache
+C:\Users\isabe\OneDrive\Documentos\c#\JogoBolaUrna\bin\Debug\JogoBolaUrna.exe.config
+C:\Users\isabe\OneDrive\Documentos\c#\JogoBolaUrna\bin\Debug\JogoBolaUrna.exe
+C:\Users\isabe\OneDrive\Documentos\c#\JogoBolaUrna\bin\Debug\JogoBolaUrna.pdb
+C:\Users\isabe\OneDrive\Documentos\c#\JogoBolaUrna\obj\Debug\JogoBolaUrna.exe
+C:\Users\isabe\OneDrive\Documentos\c#\JogoBolaUrna\obj\Debug\JogoBolaUrna.pdb
