@@ -1,0 +1,7 @@
+C:\Users\isabe\OneDrive\Documentos\c#\JogoUrna\obj\Debug\JogoUrna.csproj.AssemblyReference.cache
+C:\Users\isabe\OneDrive\Documentos\c#\JogoUrna\obj\Debug\JogoUrna.csproj.CoreCompileInputs.cache
+C:\Users\isabe\OneDrive\Documentos\c#\JogoUrna\bin\Debug\JogoUrna.exe.config
+C:\Users\isabe\OneDrive\Documentos\c#\JogoUrna\bin\Debug\JogoUrna.exe
+C:\Users\isabe\OneDrive\Documentos\c#\JogoUrna\bin\Debug\JogoUrna.pdb
+C:\Users\isabe\OneDrive\Documentos\c#\JogoUrna\obj\Debug\JogoUrna.exe
+C:\Users\isabe\OneDrive\Documentos\c#\JogoUrna\obj\Debug\JogoUrna.pdb
