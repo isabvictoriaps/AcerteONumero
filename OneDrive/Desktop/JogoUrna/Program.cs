@@ -7,7 +7,7 @@ namespace JogoUrna
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Bem vindo ao ADIVINHE O ALVO");
+            Console.WriteLine("Bem vindo ao Bola na urna");
             Console.WriteLine("O desafio é: acertar o valor que o computador sorteou.");
             Console.WriteLine("");
 
